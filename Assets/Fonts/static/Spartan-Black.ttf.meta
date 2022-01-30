@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 0e0e931d09e5d9648a6c0a1df8d19844
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Spartan
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cc4468635770dc444aa7815868a37c17, type: 3}
+  - {fileID: 12800000, guid: 9428f96a131ca1443aa514434bf7e67f, type: 3}
+  - {fileID: 12800000, guid: 06d20bc2b654f6f4a8c8e84824f016c0, type: 3}
+  - {fileID: 12800000, guid: a360bb72d9586314eb36f720e5c43dbe, type: 3}
+  - {fileID: 12800000, guid: 71caf27ffe64ceb49961d9987108b99e, type: 3}
+  - {fileID: 12800000, guid: d5618399c6a7a3f489f54208c154936f, type: 3}
+  - {fileID: 12800000, guid: 20b503147686d6048b2a60ac34278af7, type: 3}
+  - {fileID: 12800000, guid: 5d4e942f30b186048a095fe738639e71, type: 3}
+  - {fileID: 12800000, guid: c84426bc5fbfa094eaf28493bb6ca3bd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
